@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre":"Delineador",
+        "descripcion": "Sirve para delinear contornos de ojos de personas",
+        "categoria": "maquillaje",
+        "precio": 700,
+        "disponible": true,
+        "imagen": "https://via.placeholder.com/200x100/eee000"         
+    },
+    {
+        "id":2,
+        "nombre":"Crema para rostro",
+        "descripcion": "Sirve para utilizar en la cara de las personas",
+        "categoria": "crema",
+        "precio": 1200,
+        "disponible": false,
+        "imagen": "https://via.placeholder.com/200x100/fffaaa"         
+    }  
+]
